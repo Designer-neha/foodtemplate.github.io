@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="100px" height="66px" viewBox="-4.251 -0.876 100 66" enable-background="new -4.251 -0.876 100 66"
+	 xml:space="preserve">
+<defs>
+</defs>
+<path fill="#669933" d="M43.69,11.309l-9.857,7.204c-0.721-2.122-1.165-3.943-1.176-5.237C32.591,6.012,38.582,0.068,46.037,0
+	c1.681-0.016,3.29,0.268,4.778,0.803l-7.268,6.013C40.53,8.438,43.69,11.309,43.69,11.309z"/>
+<path fill="#669933" d="M47.417,5.448l4.857-4.025c0.691,0.343,1.349,0.742,1.965,1.191l-5.473,4.482
+	C46.696,7.542,47.417,5.448,47.417,5.448z"/>
+<path fill="#669933" d="M50.146,8.67l5.707-4.674c0.611,0.614,1.161,1.286,1.641,2.007L57.481,5.99l-5.759,4.716
+	C49.901,10.95,50.146,8.67,50.146,8.67z"/>
+<path fill="#FFFFFF" d="M48.778,26.685c0,0-0.373,9.149-7.135,9.024c2.623,5.045,4.799,8.855,4.799,8.855
+	s7.055-12.891,10.854-22.695L48.778,26.685z"/>
+<path fill="#669933" d="M58.151,7.105l-8.473,6.938c0,0-3.704,3.034-4.619-1.209l-9.852,9.307c0.646,1.577,1.377,3.234,2.152,4.902
+	c1.507-1.818,4.582-3.375,10.809-1.35l10.139-6.596c0.842-2.482,1.363-4.615,1.35-6.066C59.639,10.893,59.096,8.881,58.151,7.105z"
+	/>
+<text transform="matrix(1.0168 0 0 1 0 60.0405)" fill="#FFFFFF" font-family="'ArturoTrial-Regular'" font-size="16.6862">food point</text>
+</svg>
